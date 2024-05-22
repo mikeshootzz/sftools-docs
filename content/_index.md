@@ -12,7 +12,7 @@ Welcome to the official documentation for SFTools, the essential tool for the Si
 
 {{< card link="/docs/pitchcounter" title="Pitch Counter" image="images/homerun.svg" subtitle="Keeping track of pitches, balls and strikes" >}}
 
-{{< card link="/docs/newplayer" title="New Player" image="images/people.svg" subtitle="Adding a player that is not yet in the database" >}}
+{{< card link="/docs/players" title="Players" image="images/people.svg" subtitle="Where the player data comes from and how to handle players that are not yet licensed" >}}
 
 {{< /cards >}}
 

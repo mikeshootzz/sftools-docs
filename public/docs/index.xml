@@ -16,19 +16,6 @@
     
     
     <item>
-      <title>Adding a Player</title>
-      <link>http://localhost:1313/docs/newplayer/</link>
-      <pubDate>Wed, 22 May 2024 11:47:53 +0200</pubDate>
-      
-      <guid>http://localhost:1313/docs/newplayer/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Pitch Counter</title>
       <link>http://localhost:1313/docs/pitchcounter/</link>
       <pubDate>Wed, 22 May 2024 11:47:53 +0200</pubDate>
@@ -79,6 +66,23 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Players</title>
+      <link>http://localhost:1313/docs/players/</link>
+      <pubDate>Wed, 22 May 2024 11:47:53 +0200</pubDate>
+      
+      <guid>http://localhost:1313/docs/players/</guid>
+      <description>
+        
+        
+        &lt;p&gt;All players are imported from the &lt;a href=&#34;https://www.easyscore.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EasyScore&lt;/a&gt; database. This means that all licensed players should be available.&lt;/p&gt;
+&lt;h3&gt;What if the player is not in the database?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-if-the-player-is-not-in-the-database&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-if-the-player-is-not-in-the-database&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Each team has at least one Z-License to accommodate players that not yet have a license. Z-Licenses can be searched for just like any other player.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/z-license.png&#34; alt=&#34;Z-License&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
