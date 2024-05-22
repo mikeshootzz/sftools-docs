@@ -1,6 +1,6 @@
 baseURL: https://docs.sftools.ch
 languageCode: de-ch
-title: SFTools Docs
+title: SFTools
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -9,11 +9,8 @@ menu:
     - name: Documentation
       pageRef: /docs
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     - name: Search
-      weight: 3
+      weight: 2
       params:
         type: search
 
