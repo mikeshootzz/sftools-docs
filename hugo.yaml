@@ -16,3 +16,16 @@ menu:
       weight: 3
       params:
         type: search
+
+params:
+  theme:
+    default: light
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/frogs-logo.png
+      dark: images/frogs-logo.png
+      link: /
+      width: 40
+      height: 20
