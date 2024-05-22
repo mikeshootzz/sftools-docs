@@ -6,13 +6,13 @@ draft = false
 
 ---
 
-Welcome to the official documentation for SFTools, the essential tool for the Sissach Frogs baseball club! SFTools is designed to enhance the management and performance tracking of our young pitchers, providing a comprehensive pitch counting system that is both user-friendly and highly functional.
+Welcome to the official documentation for SFTools, the essential tool for the Sissach Frogs baseball club! SFTools is designed to enhance the management and performance tracking of our pitchers, providing a comprehensive pitch counting system that is both user-friendly and highly functional.
 
 {{< cards >}}
 
-{{< card link="/docs" title="Pitch Counter" image="images/homerun.svg" subtitle="Keeping track of pitches, balls and strikes" >}}
+{{< card link="/docs/pitchcounter" title="Pitch Counter" image="images/homerun.svg" subtitle="Keeping track of pitches, balls and strikes" >}}
 
-{{< card link="/docs" title="New Player" image="images/people.svg" subtitle="Adding a player that is not yet in the database" >}}
+{{< card link="/docs/newplayer" title="New Player" image="images/people.svg" subtitle="Adding a player that is not yet in the database" >}}
 
 {{< /cards >}}
 
@@ -41,6 +41,6 @@ The overview page consolidates all the pitch count data, providing a clear and c
   Getting Started
   To get started with SFTools, simply follow the installation instructions provided in the setup guide. Once installed, you can begin tracking pitches immediately, ensuring your team gets the most out of this powerful tool.
 
-Thank you for choosing SFTools to enhance the training and performance of the Sissach Frogs' young pitchers. We are committed to supporting the development of safe and effective pitching practices within our club.
+Thank you for choosing SFTools to enhance the training and performance of the Sissach Frogs' pitchers. We are committed to supporting the development of safe and effective pitching practices within our club.
 
 For more detailed instructions and advanced features, please refer to the subsequent sections of this documentation.
