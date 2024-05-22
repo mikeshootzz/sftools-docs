@@ -37,7 +37,49 @@
       <description>
         
         
-        
+        &lt;p&gt;The pitch counter is designed for tracking the pitch count of individual players during a game. This tool allows users to search for players, input inning data, and update the pitch count in real time. It provides a clear summary of pitches per inning and the total pitches thrown by the player.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pitchcount-overview.png&#34; alt=&#34;Pitch Counter&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Keeping Track of Pitch Counts&lt;span class=&#34;absolute -mt-20&#34; id=&#34;keeping-track-of-pitch-counts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#keeping-track-of-pitch-counts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;First, search for the player whose pitch count you want to track. Enter the player&amp;rsquo;s name in the search field, and the system will display a list of matching players. Select the correct player from the list to proceed. The player&amp;rsquo;s license number will be displayed in the Player ID field.&lt;/p&gt;
+&lt;p&gt;Next, input the inning number for which you want to record the pitch count. Once you&amp;rsquo;ve selected the inning, you can adjust the pitch count by clicking the (+) or (-) buttons below the inning indicator.&lt;/p&gt;
+&lt;p&gt;After an inning is completed, you can move on to the next inning by changing the value of the inning field. Continue updating the pitch count for each inning as the game progresses.&lt;/p&gt;
+&lt;h2&gt;Clearing the Pitch Count&lt;span class=&#34;absolute -mt-20&#34; id=&#34;clearing-the-pitch-count&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#clearing-the-pitch-count&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To clear the pitch count for a player, click the &amp;ldquo;Clear&amp;rdquo; button at the bottom of the screen. This will reset the pitch count for the selected player to zero. This will delete all pitch count data for the player, so use this with caution.&lt;/p&gt;
+&lt;h2&gt;Balls and Strike Mode&lt;span class=&#34;absolute -mt-20&#34; id=&#34;balls-and-strike-mode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#balls-and-strike-mode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The pitch counter also implements a balls and strikes mode for tracking the amount of balls and strikes thrown by a player. To switch to balls and strikes mode, click the &amp;ldquo;Balls &amp;amp; Strikes&amp;rdquo; button at the top of the screen. This will change the plus and minus buttons to balls and strikes buttons, allowing you to track balls and strikes separately.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ball-strike-mode.png&#34; alt=&#34;Balls and Strikes Mode&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The summary section will display the total number of balls and strikes thrown by the player. This mode can be useful for tracking the player&amp;rsquo;s accuracy during the game.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-yellow-100 bg-yellow-50 text-yellow-900 dark:border-yellow-200/30 dark:bg-yellow-700/30 dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Switching between balls and strikes mode and pitch count mode might cause weird behavior in the pitch count. Make sure to clear the pitch count before switching modes to avoid any issues.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
       </description>
     </item>
     
